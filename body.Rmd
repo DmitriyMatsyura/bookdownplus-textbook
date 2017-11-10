@@ -289,7 +289,7 @@ marks                              output
 `R^2^`                             R^2^ (superscript)
 `$E = mc^2$`                       $E = mc^2$ inline equation
                                    (`$$` for displayed equation)
-`[hyperlink](http://pzhao.net)` [hyperlink](http://pzhao.net)
+`[hyperlink](http://pzhao.net)`    [hyperlink](http://pzhao.net)
 `<pzhao@pzhao.net>`                <pzhao@pzhao.net> email
 `![](hyperlink of figure)`         insert a figure
 `> quote`                          quote
